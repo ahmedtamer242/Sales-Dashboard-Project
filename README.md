@@ -5,6 +5,9 @@ This is a comprehensive sales dashboard project developed using Microsoft Excel.
 ## 🚀 Project Overview
 This project analyzes sales data to identify key patterns and trends. It includes an interactive dashboard that allows users to explore data based on categories, regions, and years.
 
+## 🖼 Dashboard Preview
+![Sales Dashboard](msedge_PmJUjDuD1n.png)
+
 ## 📈 Key Features
 * **Sales Analysis:** Displays total sales, profit, and discount figures.
 * **Classification:** Analyzes sales by category and sub-category.
