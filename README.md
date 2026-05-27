@@ -21,8 +21,8 @@ Through this analysis, I extracted key performance indicators (KPIs) including:
 * Distribution of orders by region.
 
 ## 📂 File Structure
-* `Sales_Dashboard.pdf`: Preview version of the final dashboard.
-* `Data_Source.xlsx`: (Insert the name of your Excel file here if you have uploaded it).
+* [View Sales Dashboard PDF](Sales_Dashboard.pdf)
+* [Download Source Data](Data_Source.xlsx)
 
 ---
 Created by **Ahmed Tamer**.
